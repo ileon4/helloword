@@ -1,1 +1,2 @@
-print('hello world')
+print("Hello, World!")
+print("Learning about commits today!")
